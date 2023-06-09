@@ -1,0 +1,52 @@
+.hardmode-form {
+    border: 1px solid white;
+    border-radius: 20px;
+}
+
+.hardmode-form form{
+    margin:25px;
+    
+
+}
+
+.hardmode-form p{
+    display:flex;
+    justify-content: space-between;
+    border: 1px solid white;
+    padding: 5px;
+    background-color: rgb(0,0,0, .8);
+}
+
+form input{
+    width:50px;
+    margin-left: 15px;
+}
+
+.hardmode-info{
+    border: 1px solid white;
+    border-radius: 10px;
+}
+
+.tables {
+    display:flex;
+}
+
+.tablepositions{
+    justify-content: center;
+    border: 1px solid white;
+    border-radius: 10px;
+    margin: 5px;
+    padding:5px;
+    min-width: 250px;
+    min-height: 100px;
+    background-color: rgb(0,0,0, .8)
+}
+
+.tablepositions ol{
+    margin:50px;
+    padding:5px;
+}
+
+.hardmode-info{
+    background-color: rgb(0,0,0, .8)
+}
