@@ -1,6 +1,4 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
 import Hardmode from './Hardmode.jsx'
 import Fastmode from './Fastmode.jsx'
